@@ -47,16 +47,4 @@ taihen.h
 -
 debugScreen.h
 /workspaces/VitaKeyMouse/kbm/src/debugScreen.h
-psp2/kernel/threadmgr.h
--
-psp2/kernel/processmgr.h
--
-psp2/audioin.h
--
-psp2/ctrl.h
--
-stdlib.h
--
-string.h
--
 
