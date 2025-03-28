@@ -321,10 +321,10 @@ basic_program_BINARY_DIR:STATIC=/workspaces/VitaKeyMouse/build/basic_program
 basic_program_SOURCE_DIR:STATIC=/workspaces/VitaKeyMouse/basic_program
 
 //Value Computed by CMake
-camera_sample_BINARY_DIR:STATIC=/workspaces/VitaKeyMouse/build/camera
+camera_sample_BINARY_DIR:STATIC=/workspaces/VitaKeyMouse/build/kbm
 
 //Value Computed by CMake
-camera_sample_SOURCE_DIR:STATIC=/workspaces/VitaKeyMouse/camera
+camera_sample_SOURCE_DIR:STATIC=/workspaces/VitaKeyMouse/kbm
 
 //Value Computed by CMake
 ctrl_sample_BINARY_DIR:STATIC=/workspaces/VitaKeyMouse/build/ctrl
@@ -638,7 +638,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=28
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

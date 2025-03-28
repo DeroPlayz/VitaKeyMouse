@@ -2,6 +2,13 @@
 #include <psp2/ctrl.h>
 #include <taihen.h>
 #include "debugScreen.h"
+#include <psp2/kernel/threadmgr.h>
+#include <psp2/kernel/processmgr.h>
+#include <psp2/audioin.h>
+#include <psp2/ctrl.h>
+
+#include <stdlib.h>
+#include <string.h>
 
 #define printf(...) psvDebugScreenPrintf(__VA_ARGS__)
 
