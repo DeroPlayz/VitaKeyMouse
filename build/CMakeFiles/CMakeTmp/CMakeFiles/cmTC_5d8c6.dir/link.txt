@@ -1,1 +1,0 @@
-/usr/bin/gcc  -Wl,-q   -Wl,-z,nocopyreloc  CMakeFiles/cmTC_5d8c6.dir/testCCompiler.c.obj  -o cmTC_5d8c6 

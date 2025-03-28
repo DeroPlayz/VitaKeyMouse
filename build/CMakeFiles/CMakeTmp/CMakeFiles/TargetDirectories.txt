@@ -1,3 +1,0 @@
-/workspaces/VitaKeyMouse/build/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
-/workspaces/VitaKeyMouse/build/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-/workspaces/VitaKeyMouse/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_5d8c6.dir
