@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-gcc  -Wl,-q -std=gnu11  -Wl,-z,nocopyreloc CMakeFiles/net_http_sample.dir/src/main.c.obj CMakeFiles/net_http_sample.dir/__/common/debugScreen.c.obj  -o net_http_sample  -lSceDisplay_stub -lSceSysmodule_stub -lSceNet_stub -lSceNetCtl_stub -lSceHttp_stub 

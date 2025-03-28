@@ -1,0 +1,17 @@
+---
+modules:
+  basic_program:
+    nid: 0x87fa9921
+    libraries:
+      basic_program_library:
+        nid: 0x8e5d5be1
+        kernel: false
+        version: 0x2
+        functions:
+          basic_program_panic: 0x36f0c4c4
+      basic_program_param:
+        nid: 0x745f70d8
+        kernel: false
+        version: 0x5
+        variables:
+          sys_clock_basic_program: 0xea57a29b

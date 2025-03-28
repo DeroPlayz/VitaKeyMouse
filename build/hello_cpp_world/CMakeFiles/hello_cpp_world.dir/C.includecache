@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/VitaKeyMouse/common/debugScreen.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+inttypes.h
+-
+debugScreen.h
+/workspaces/VitaKeyMouse/common/debugScreen.h
+debugScreenFont.c
+/workspaces/VitaKeyMouse/common/debugScreenFont.c
+psp2/display.h
+-
+psp2/kernel/sysmem.h
+-
+psp2/kernel/threadmgr.h
+-
+
+/workspaces/VitaKeyMouse/common/debugScreen.h
+debugScreen_custom.h
+/workspaces/VitaKeyMouse/common/debugScreen_custom.h
+debugScreen.c
+/workspaces/VitaKeyMouse/common/debugScreen.c
+
+/workspaces/VitaKeyMouse/common/debugScreenFont.c
+
+/workspaces/VitaKeyMouse/common/debugScreen_custom.h
+

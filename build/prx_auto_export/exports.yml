@@ -1,0 +1,32 @@
+---
+prx_auto_export:
+  attributes: 0x0
+  version:
+    major: 0x1
+    minor: 0x1
+  nid: 0xca97f5c1
+  main:
+    start: vitasdk_sample_module_start
+    stop: vitasdk_sample_module_stop
+    exit: vitasdk_sample_module_exit
+  libraries:
+    prx_auto_export:
+      version: 0x1
+      syscall: false
+      nid: 0xf77c8da2
+      functions:
+      - vitasdk_sample_math_and: 0xd1ab7a6
+      - _ZN7vitasdk6sample4Math3AddEii: 0x12945139
+      - _ZN7vitasdk6sample4Math3SubEii: 0x2ad4d4de
+      - vitasdk_sample_math_bic: 0x41c5bd06
+      - _ZN7vitasdk6sample4Math3DivEii: 0x8ecef76e
+      - _ZN7vitasdk6sample4MathC2Ev: 0x96eb089a
+      - vitasdk_sample_math_eor: 0xadef1c29
+      - _ZN7vitasdk6sample4MathD0Ev: 0xbaeeff44
+      - _ZN7vitasdk6sample4MathD2Ev: 0xc33f6bd2
+      - _ZN7vitasdk6sample4MathC1Ev: 0xcfad8578
+      - _ZN7vitasdk6sample4Math3ModEii: 0xe03a228a
+      - vitasdk_sample_math_xor: 0xe820183c
+      - vitasdk_sample_math_orr: 0xea7a563d
+      - _ZN7vitasdk6sample4Math3MulEii: 0xf43575af
+      - _ZN7vitasdk6sample4MathD1Ev: 0xf4cd2442

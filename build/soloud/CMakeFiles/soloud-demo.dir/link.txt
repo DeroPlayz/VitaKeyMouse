@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-g++   -Wl,-q -std=c++11  -Wl,-z,nocopyreloc CMakeFiles/soloud-demo.dir/src/main.cpp.obj CMakeFiles/soloud-demo.dir/__/common/debugScreen.c.obj  -o soloud-demo  -lsoloud -lstdc++ -lpthread -lm -lSceDisplay_stub -lSceCtrl_stub -lSceAudio_stub 

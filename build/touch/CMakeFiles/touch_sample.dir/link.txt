@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-gcc  -Wl,-q -std=gnu11  -Wl,-z,nocopyreloc CMakeFiles/touch_sample.dir/src/main.c.obj CMakeFiles/touch_sample.dir/__/common/debugScreen.c.obj  -o touch_sample  -lSceDisplay_stub -lSceTouch_stub 

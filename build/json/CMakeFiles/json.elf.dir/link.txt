@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-g++   -Wl,-q -fno-rtti -std=c++11  -Wl,-z,nocopyreloc CMakeFiles/json.elf.dir/src/main.cpp.obj CMakeFiles/json.elf.dir/__/common/debugScreen.c.obj  -o json.elf  -lSceLibJson_stub -lSceSysmodule_stub -lSceDisplay_stub -lSceCtrl_stub 

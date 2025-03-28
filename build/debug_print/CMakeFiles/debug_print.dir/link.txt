@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-gcc  -Wl,-q -std=gnu11  -Wl,-z,nocopyreloc CMakeFiles/debug_print.dir/src/main.c.obj CMakeFiles/debug_print.dir/__/common/debugScreen.c.obj  -o debug_print  -lSceDisplay_stub 

@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-gcc -Wl,-q -Wall -O2 -nostdlib -fno-inline  -Wl,-z,nocopyreloc -nostdlib CMakeFiles/stdio_test.dir/src/main.c.obj  -o stdio_test  -lSceLibc_stub -lSceLibKernel_stub -lSceKernelThreadMgr_stub -lSceProcessmgr_stub -lSceIofilemgr_stub 

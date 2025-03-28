@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/VitaKeyMouse/net_https/src/main.c
+psp2/kernel/processmgr.h
+-
+psp2/kernel/modulemgr.h
+-
+psp2/kernel/sysmem.h
+-
+psp2/kernel/clib.h
+-
+psp2/io/fcntl.h
+-
+psp2/net/net.h
+-
+psp2/net/netctl.h
+-
+psp2/net/http.h
+-
+psp2/libssl.h
+-
+psp2/paf.h
+-
+psp2/sysmodule.h
+-
+psp2/vshbridge.h
+-
+

@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-gcc  -Wl,-q -Wall  -Wl,-z,nocopyreloc CMakeFiles/mic_sample.dir/src/main.c.obj CMakeFiles/mic_sample.dir/__/common/debugScreen.c.obj  -o mic_sample  -lSceDisplay_stub -lSceCtrl_stub -lSceAudioIn_stub 

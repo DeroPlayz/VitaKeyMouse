@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/VitaKeyMouse/basic_program/src/main.c
+psp2/types.h
+-
+psp2/kernel/modulemgr.h
+-
+psp2/kernel/processmgr.h
+-
+psp2/kernel/clib.h
+-
+
